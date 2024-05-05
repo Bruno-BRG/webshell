@@ -1,33 +1,34 @@
 {
   "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+    "██████╗ ██████╗ ██╗   ██╗███╗   ██╗ ██████╗     ██████╗  ██████╗  ██████╗██╗  ██╗ █████╗ ",
+    "██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔═══██╗    ██╔══██╗██╔═══██╗██╔════╝██║  ██║██╔══██╗",
+    "██████╔╝██████╔╝██║   ██║██╔██╗ ██║██║   ██║    ██████╔╝██║   ██║██║     ███████║███████║",
+    "██╔══██╗██╔══██╗██║   ██║██║╚██╗██║██║   ██║    ██╔══██╗██║   ██║██║     ██╔══██║██╔══██║",
+    "██████╔╝██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝    ██║  ██║╚██████╔╝╚██████╗██║  ██║██║  ██║",
+    "╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝"
   ],
-  "title": "WebShell",
+  "title": "Portifolio",
   "username": "visitor",
-  "hostname": "webshell",
-  "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "hostname": "ElMachine",
+  "password": "03022311",
+  "repoLink": "https://github.com/Frykits/webshell",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "brg.brunorocha@gmail.com",
+    "github": "https://github.com/Frykits",
+    "linkedin": "https://www.linkedin.com/in/bruno-guimar%C3%A3es-748a47266/"
+  
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Hi stranger. Welcome to TheTerminal.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "SHA256_Go",
+      "Hash creater in Go.",
+      "https://github.com/Frykits/SHA256_Go"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "Roguelike",
+      "Roguelike game in python using ASCII graphics",
+      "https://github.com/Frykits/Roguelike_Python"
     ]
   ],
   "colors": {
